@@ -1,4 +1,4 @@
-const XMLParser = require("mpts-core/src/parser/XMLParser").XMLParser;
+const XMLParser = require("mpts-core/dist/parser/XMLParser").XMLParser;
 
 module.exports = function loader(input) {
     let parsed = XMLParser.Parse(input)

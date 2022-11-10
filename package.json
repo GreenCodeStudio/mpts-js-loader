@@ -1,12 +1,12 @@
 {
   "name": "mpts-loader",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.1",
   "description": "Webpack loader for MPTS",
   "main": "src/index.js",
   "repository": "https://github.com/GreenCodeStudio/mpts-js-loader",
   "author": "GreenCodeStudio",
   "license": "MIT",
   "dependencies": {
-    "mpts-core": "^1.0.0-alpha.0"
+    "mpts-core": "^1.0.0"
   }
 }
